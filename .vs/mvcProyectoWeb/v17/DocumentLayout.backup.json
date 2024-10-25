@@ -1,0 +1,261 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\diego.aguilera\\OneDrive - Universidad Privada Domingo Savio\\Escritorio\\Prograweb2\\Practica 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{019AC755-59DA-464D-880B-6C537DDDE540}|Practica 2\\mvcProyectoWeb.csproj|c:\\users\\diego.aguilera\\onedrive - universidad privada domingo savio\\escritorio\\prograweb2\\practica 2\\practica 2\\areas\\admin\\controllers\\almacenescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{019AC755-59DA-464D-880B-6C537DDDE540}|Practica 2\\mvcProyectoWeb.csproj|solutionrelative:practica 2\\areas\\admin\\controllers\\almacenescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{019AC755-59DA-464D-880B-6C537DDDE540}|Practica 2\\mvcProyectoWeb.csproj|c:\\users\\diego.aguilera\\onedrive - universidad privada domingo savio\\escritorio\\prograweb2\\practica 2\\practica 2\\areas\\admin\\views\\almacenes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{019AC755-59DA-464D-880B-6C537DDDE540}|Practica 2\\mvcProyectoWeb.csproj|solutionrelative:practica 2\\areas\\admin\\views\\almacenes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{019AC755-59DA-464D-880B-6C537DDDE540}|Practica 2\\mvcProyectoWeb.csproj|c:\\users\\diego.aguilera\\onedrive - universidad privada domingo savio\\escritorio\\prograweb2\\practica 2\\practica 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{019AC755-59DA-464D-880B-6C537DDDE540}|Practica 2\\mvcProyectoWeb.csproj|solutionrelative:practica 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{019AC755-59DA-464D-880B-6C537DDDE540}|Practica 2\\mvcProyectoWeb.csproj|c:\\users\\diego.aguilera\\onedrive - universidad privada domingo savio\\escritorio\\prograweb2\\practica 2\\practica 2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{019AC755-59DA-464D-880B-6C537DDDE540}|Practica 2\\mvcProyectoWeb.csproj|solutionrelative:practica 2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B788B1B5-5F98-4551-8617-8DBD2D7E0803}|mvcProyectoWeb.AccesoDatos\\mvcProyectoWeb.AccesoDatos.csproj|c:\\users\\diego.aguilera\\onedrive - universidad privada domingo savio\\escritorio\\prograweb2\\practica 2\\mvcproyectoweb.accesodatos\\migrations\\20241012013432_newmigra2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B788B1B5-5F98-4551-8617-8DBD2D7E0803}|mvcProyectoWeb.AccesoDatos\\mvcProyectoWeb.AccesoDatos.csproj|solutionrelative:mvcproyectoweb.accesodatos\\migrations\\20241012013432_newmigra2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{019AC755-59DA-464D-880B-6C537DDDE540}|Practica 2\\mvcProyectoWeb.csproj|c:\\users\\diego.aguilera\\onedrive - universidad privada domingo savio\\escritorio\\prograweb2\\practica 2\\practica 2\\areas\\admin\\views\\almacenes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{019AC755-59DA-464D-880B-6C537DDDE540}|Practica 2\\mvcProyectoWeb.csproj|solutionrelative:practica 2\\areas\\admin\\views\\almacenes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8A9B0BF-72BF-4424-863C-77B00AEC66B1}|mvcProyectoWeb.Models\\mvcProyectoWeb.Models.csproj|c:\\users\\diego.aguilera\\onedrive - universidad privada domingo savio\\escritorio\\prograweb2\\practica 2\\mvcproyectoweb.models\\almacen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8A9B0BF-72BF-4424-863C-77B00AEC66B1}|mvcProyectoWeb.Models\\mvcProyectoWeb.Models.csproj|solutionrelative:mvcproyectoweb.models\\almacen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{019AC755-59DA-464D-880B-6C537DDDE540}|Practica 2\\mvcProyectoWeb.csproj|c:\\users\\diego.aguilera\\onedrive - universidad privada domingo savio\\escritorio\\prograweb2\\practica 2\\practica 2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{019AC755-59DA-464D-880B-6C537DDDE540}|Practica 2\\mvcProyectoWeb.csproj|solutionrelative:practica 2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{019AC755-59DA-464D-880B-6C537DDDE540}|Practica 2\\mvcProyectoWeb.csproj|c:\\users\\diego.aguilera\\onedrive - universidad privada domingo savio\\escritorio\\prograweb2\\practica 2\\practica 2\\views\\shared\\_vistacrearvolver.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{019AC755-59DA-464D-880B-6C537DDDE540}|Practica 2\\mvcProyectoWeb.csproj|solutionrelative:practica 2\\views\\shared\\_vistacrearvolver.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{019AC755-59DA-464D-880B-6C537DDDE540}|Practica 2\\mvcProyectoWeb.csproj|c:\\users\\diego.aguilera\\onedrive - universidad privada domingo savio\\escritorio\\prograweb2\\practica 2\\practica 2\\areas\\admin\\views\\almacenes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{019AC755-59DA-464D-880B-6C537DDDE540}|Practica 2\\mvcProyectoWeb.csproj|solutionrelative:practica 2\\areas\\admin\\views\\almacenes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B788B1B5-5F98-4551-8617-8DBD2D7E0803}|mvcProyectoWeb.AccesoDatos\\mvcProyectoWeb.AccesoDatos.csproj|c:\\users\\diego.aguilera\\onedrive - universidad privada domingo savio\\escritorio\\prograweb2\\practica 2\\mvcproyectoweb.accesodatos\\migrations\\20241012014436_newmigra4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B788B1B5-5F98-4551-8617-8DBD2D7E0803}|mvcProyectoWeb.AccesoDatos\\mvcProyectoWeb.AccesoDatos.csproj|solutionrelative:mvcproyectoweb.accesodatos\\migrations\\20241012014436_newmigra4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B788B1B5-5F98-4551-8617-8DBD2D7E0803}|mvcProyectoWeb.AccesoDatos\\mvcProyectoWeb.AccesoDatos.csproj|c:\\users\\diego.aguilera\\onedrive - universidad privada domingo savio\\escritorio\\prograweb2\\practica 2\\mvcproyectoweb.accesodatos\\migrations\\20241012013932_newmigra3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B788B1B5-5F98-4551-8617-8DBD2D7E0803}|mvcProyectoWeb.AccesoDatos\\mvcProyectoWeb.AccesoDatos.csproj|solutionrelative:mvcproyectoweb.accesodatos\\migrations\\20241012013932_newmigra3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B788B1B5-5F98-4551-8617-8DBD2D7E0803}|mvcProyectoWeb.AccesoDatos\\mvcProyectoWeb.AccesoDatos.csproj|c:\\users\\diego.aguilera\\onedrive - universidad privada domingo savio\\escritorio\\prograweb2\\practica 2\\mvcproyectoweb.accesodatos\\migrations\\20241012014641_newmigra5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B788B1B5-5F98-4551-8617-8DBD2D7E0803}|mvcProyectoWeb.AccesoDatos\\mvcProyectoWeb.AccesoDatos.csproj|solutionrelative:mvcproyectoweb.accesodatos\\migrations\\20241012014641_newmigra5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 362,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\diego.aguilera\\OneDrive - Universidad Privada Domingo Savio\\Escritorio\\Prograweb2\\Practica 2\\Practica 2\\Program.cs",
+              "RelativeDocumentMoniker": "Practica 2\\Program.cs",
+              "ToolTip": "C:\\Users\\diego.aguilera\\OneDrive - Universidad Privada Domingo Savio\\Escritorio\\Prograweb2\\Practica 2\\Practica 2\\Program.cs",
+              "RelativeToolTip": "Practica 2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T01:46:25.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20241012014436_newmigra4.cs",
+              "DocumentMoniker": "C:\\Users\\diego.aguilera\\OneDrive - Universidad Privada Domingo Savio\\Escritorio\\Prograweb2\\Practica 2\\mvcProyectoWeb.AccesoDatos\\Migrations\\20241012014436_newmigra4.cs",
+              "RelativeDocumentMoniker": "mvcProyectoWeb.AccesoDatos\\Migrations\\20241012014436_newmigra4.cs",
+              "ToolTip": "C:\\Users\\diego.aguilera\\OneDrive - Universidad Privada Domingo Savio\\Escritorio\\Prograweb2\\Practica 2\\mvcProyectoWeb.AccesoDatos\\Migrations\\20241012014436_newmigra4.cs",
+              "RelativeToolTip": "mvcProyectoWeb.AccesoDatos\\Migrations\\20241012014436_newmigra4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T01:44:36.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20241012013932_newmigra3.cs",
+              "DocumentMoniker": "C:\\Users\\diego.aguilera\\OneDrive - Universidad Privada Domingo Savio\\Escritorio\\Prograweb2\\Practica 2\\mvcProyectoWeb.AccesoDatos\\Migrations\\20241012013932_newmigra3.cs",
+              "RelativeDocumentMoniker": "mvcProyectoWeb.AccesoDatos\\Migrations\\20241012013932_newmigra3.cs",
+              "ToolTip": "C:\\Users\\diego.aguilera\\OneDrive - Universidad Privada Domingo Savio\\Escritorio\\Prograweb2\\Practica 2\\mvcProyectoWeb.AccesoDatos\\Migrations\\20241012013932_newmigra3.cs",
+              "RelativeToolTip": "mvcProyectoWeb.AccesoDatos\\Migrations\\20241012013932_newmigra3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T01:39:32.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\diego.aguilera\\OneDrive - Universidad Privada Domingo Savio\\Escritorio\\Prograweb2\\Practica 2\\Practica 2\\appsettings.json",
+              "RelativeDocumentMoniker": "Practica 2\\appsettings.json",
+              "ToolTip": "C:\\Users\\diego.aguilera\\OneDrive - Universidad Privada Domingo Savio\\Escritorio\\Prograweb2\\Practica 2\\Practica 2\\appsettings.json",
+              "RelativeToolTip": "Practica 2\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-12T01:33:35.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\diego.aguilera\\OneDrive - Universidad Privada Domingo Savio\\Escritorio\\Prograweb2\\Practica 2\\Practica 2\\Areas\\Admin\\Views\\Almacenes\\Index.cshtml",
+              "RelativeDocumentMoniker": "Practica 2\\Areas\\Admin\\Views\\Almacenes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\diego.aguilera\\OneDrive - Universidad Privada Domingo Savio\\Escritorio\\Prograweb2\\Practica 2\\Practica 2\\Areas\\Admin\\Views\\Almacenes\\Index.cshtml",
+              "RelativeToolTip": "Practica 2\\Areas\\Admin\\Views\\Almacenes\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-12T00:26:00.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AlmacenesController.cs",
+              "DocumentMoniker": "C:\\Users\\diego.aguilera\\OneDrive - Universidad Privada Domingo Savio\\Escritorio\\Prograweb2\\Practica 2\\Practica 2\\Areas\\Admin\\Controllers\\AlmacenesController.cs",
+              "RelativeDocumentMoniker": "Practica 2\\Areas\\Admin\\Controllers\\AlmacenesController.cs",
+              "ToolTip": "C:\\Users\\diego.aguilera\\OneDrive - Universidad Privada Domingo Savio\\Escritorio\\Prograweb2\\Practica 2\\Practica 2\\Areas\\Admin\\Controllers\\AlmacenesController.cs",
+              "RelativeToolTip": "Practica 2\\Areas\\Admin\\Controllers\\AlmacenesController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAswBUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T00:01:11.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20241012014641_newmigra5.cs",
+              "DocumentMoniker": "C:\\Users\\diego.aguilera\\OneDrive - Universidad Privada Domingo Savio\\Escritorio\\Prograweb2\\Practica 2\\mvcProyectoWeb.AccesoDatos\\Migrations\\20241012014641_newmigra5.cs",
+              "RelativeDocumentMoniker": "mvcProyectoWeb.AccesoDatos\\Migrations\\20241012014641_newmigra5.cs",
+              "ToolTip": "C:\\Users\\diego.aguilera\\OneDrive - Universidad Privada Domingo Savio\\Escritorio\\Prograweb2\\Practica 2\\mvcProyectoWeb.AccesoDatos\\Migrations\\20241012014641_newmigra5.cs",
+              "RelativeToolTip": "mvcProyectoWeb.AccesoDatos\\Migrations\\20241012014641_newmigra5.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T01:46:41.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20241012013432_newmigra2.cs",
+              "DocumentMoniker": "C:\\Users\\diego.aguilera\\OneDrive - Universidad Privada Domingo Savio\\Escritorio\\Prograweb2\\Practica 2\\mvcProyectoWeb.AccesoDatos\\Migrations\\20241012013432_newmigra2.cs",
+              "RelativeDocumentMoniker": "mvcProyectoWeb.AccesoDatos\\Migrations\\20241012013432_newmigra2.cs",
+              "ToolTip": "C:\\Users\\diego.aguilera\\OneDrive - Universidad Privada Domingo Savio\\Escritorio\\Prograweb2\\Practica 2\\mvcProyectoWeb.AccesoDatos\\Migrations\\20241012013432_newmigra2.cs",
+              "RelativeToolTip": "mvcProyectoWeb.AccesoDatos\\Migrations\\20241012013432_newmigra2.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T01:34:32.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\diego.aguilera\\OneDrive - Universidad Privada Domingo Savio\\Escritorio\\Prograweb2\\Practica 2\\Practica 2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Practica 2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\diego.aguilera\\OneDrive - Universidad Privada Domingo Savio\\Escritorio\\Prograweb2\\Practica 2\\Practica 2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Practica 2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-12T01:15:24.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_VistaCrearVolver.cshtml",
+              "DocumentMoniker": "C:\\Users\\diego.aguilera\\OneDrive - Universidad Privada Domingo Savio\\Escritorio\\Prograweb2\\Practica 2\\Practica 2\\Views\\Shared\\_VistaCrearVolver.cshtml",
+              "RelativeDocumentMoniker": "Practica 2\\Views\\Shared\\_VistaCrearVolver.cshtml",
+              "ToolTip": "C:\\Users\\diego.aguilera\\OneDrive - Universidad Privada Domingo Savio\\Escritorio\\Prograweb2\\Practica 2\\Practica 2\\Views\\Shared\\_VistaCrearVolver.cshtml",
+              "RelativeToolTip": "Practica 2\\Views\\Shared\\_VistaCrearVolver.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-12T01:11:00.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\diego.aguilera\\OneDrive - Universidad Privada Domingo Savio\\Escritorio\\Prograweb2\\Practica 2\\Practica 2\\Areas\\Admin\\Views\\Almacenes\\Create.cshtml",
+              "RelativeDocumentMoniker": "Practica 2\\Areas\\Admin\\Views\\Almacenes\\Create.cshtml",
+              "ToolTip": "C:\\Users\\diego.aguilera\\OneDrive - Universidad Privada Domingo Savio\\Escritorio\\Prograweb2\\Practica 2\\Practica 2\\Areas\\Admin\\Views\\Almacenes\\Create.cshtml",
+              "RelativeToolTip": "Practica 2\\Areas\\Admin\\Views\\Almacenes\\Create.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowCQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-12T01:08:50.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Almacen.cs",
+              "DocumentMoniker": "C:\\Users\\diego.aguilera\\OneDrive - Universidad Privada Domingo Savio\\Escritorio\\Prograweb2\\Practica 2\\mvcProyectoWeb.Models\\Almacen.cs",
+              "RelativeDocumentMoniker": "mvcProyectoWeb.Models\\Almacen.cs",
+              "ToolTip": "C:\\Users\\diego.aguilera\\OneDrive - Universidad Privada Domingo Savio\\Escritorio\\Prograweb2\\Practica 2\\mvcProyectoWeb.Models\\Almacen.cs",
+              "RelativeToolTip": "mvcProyectoWeb.Models\\Almacen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T00:55:19.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\diego.aguilera\\OneDrive - Universidad Privada Domingo Savio\\Escritorio\\Prograweb2\\Practica 2\\Practica 2\\Areas\\Admin\\Views\\Almacenes\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Practica 2\\Areas\\Admin\\Views\\Almacenes\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\diego.aguilera\\OneDrive - Universidad Privada Domingo Savio\\Escritorio\\Prograweb2\\Practica 2\\Practica 2\\Areas\\Admin\\Views\\Almacenes\\Edit.cshtml",
+              "RelativeToolTip": "Practica 2\\Areas\\Admin\\Views\\Almacenes\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-12T00:15:19.851Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 288,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 288,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+C:\Users\juand\source\repos\Practica 2\mvcProyectoWeb.AccesoDatos\bin\Debug\net8.0\mvcProyectoWeb.AccesoDatos.deps.json
+C:\Users\juand\source\repos\Practica 2\mvcProyectoWeb.AccesoDatos\bin\Debug\net8.0\mvcProyectoWeb.AccesoDatos.runtimeconfig.json
+C:\Users\juand\source\repos\Practica 2\mvcProyectoWeb.AccesoDatos\bin\Debug\net8.0\mvcProyectoWeb.AccesoDatos.dll
+C:\Users\juand\source\repos\Practica 2\mvcProyectoWeb.AccesoDatos\bin\Debug\net8.0\mvcProyectoWeb.AccesoDatos.pdb
+C:\Users\juand\source\repos\Practica 2\mvcProyectoWeb.AccesoDatos\bin\Debug\net8.0\mvcProyectoWeb.Models.dll
+C:\Users\juand\source\repos\Practica 2\mvcProyectoWeb.AccesoDatos\bin\Debug\net8.0\mvcProyectoWeb.Utilidades.dll
+C:\Users\juand\source\repos\Practica 2\mvcProyectoWeb.AccesoDatos\bin\Debug\net8.0\mvcProyectoWeb.Models.pdb
+C:\Users\juand\source\repos\Practica 2\mvcProyectoWeb.AccesoDatos\bin\Debug\net8.0\mvcProyectoWeb.Utilidades.pdb
+C:\Users\juand\source\repos\Practica 2\mvcProyectoWeb.AccesoDatos\obj\Debug\net8.0\mvcProyectoWeb.AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\juand\source\repos\Practica 2\mvcProyectoWeb.AccesoDatos\obj\Debug\net8.0\mvcProyectoWeb.AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juand\source\repos\Practica 2\mvcProyectoWeb.AccesoDatos\obj\Debug\net8.0\mvcProyectoWeb.AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\juand\source\repos\Practica 2\mvcProyectoWeb.AccesoDatos\obj\Debug\net8.0\mvcProyectoWeb.AccesoDatos.AssemblyInfo.cs
+C:\Users\juand\source\repos\Practica 2\mvcProyectoWeb.AccesoDatos\obj\Debug\net8.0\mvcProyectoWeb.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\juand\source\repos\Practica 2\mvcProyectoWeb.AccesoDatos\obj\Debug\net8.0\mvcProye.E177E565.Up2Date
+C:\Users\juand\source\repos\Practica 2\mvcProyectoWeb.AccesoDatos\obj\Debug\net8.0\mvcProyectoWeb.AccesoDatos.dll
+C:\Users\juand\source\repos\Practica 2\mvcProyectoWeb.AccesoDatos\obj\Debug\net8.0\refint\mvcProyectoWeb.AccesoDatos.dll
+C:\Users\juand\source\repos\Practica 2\mvcProyectoWeb.AccesoDatos\obj\Debug\net8.0\mvcProyectoWeb.AccesoDatos.pdb
+C:\Users\juand\source\repos\Practica 2\mvcProyectoWeb.AccesoDatos\obj\Debug\net8.0\mvcProyectoWeb.AccesoDatos.genruntimeconfig.cache
+C:\Users\juand\source\repos\Practica 2\mvcProyectoWeb.AccesoDatos\obj\Debug\net8.0\ref\mvcProyectoWeb.AccesoDatos.dll
+C:\Users\diego.aguilera\OneDrive - Universidad Privada Domingo Savio\Escritorio\Prograweb2\Practica 2\mvcProyectoWeb.AccesoDatos\bin\Debug\net8.0\mvcProyectoWeb.AccesoDatos.deps.json
+C:\Users\diego.aguilera\OneDrive - Universidad Privada Domingo Savio\Escritorio\Prograweb2\Practica 2\mvcProyectoWeb.AccesoDatos\bin\Debug\net8.0\mvcProyectoWeb.AccesoDatos.runtimeconfig.json
+C:\Users\diego.aguilera\OneDrive - Universidad Privada Domingo Savio\Escritorio\Prograweb2\Practica 2\mvcProyectoWeb.AccesoDatos\bin\Debug\net8.0\mvcProyectoWeb.AccesoDatos.dll
+C:\Users\diego.aguilera\OneDrive - Universidad Privada Domingo Savio\Escritorio\Prograweb2\Practica 2\mvcProyectoWeb.AccesoDatos\bin\Debug\net8.0\mvcProyectoWeb.AccesoDatos.pdb
+C:\Users\diego.aguilera\OneDrive - Universidad Privada Domingo Savio\Escritorio\Prograweb2\Practica 2\mvcProyectoWeb.AccesoDatos\bin\Debug\net8.0\mvcProyectoWeb.Models.dll
+C:\Users\diego.aguilera\OneDrive - Universidad Privada Domingo Savio\Escritorio\Prograweb2\Practica 2\mvcProyectoWeb.AccesoDatos\bin\Debug\net8.0\mvcProyectoWeb.Utilidades.dll
+C:\Users\diego.aguilera\OneDrive - Universidad Privada Domingo Savio\Escritorio\Prograweb2\Practica 2\mvcProyectoWeb.AccesoDatos\bin\Debug\net8.0\mvcProyectoWeb.Models.pdb
+C:\Users\diego.aguilera\OneDrive - Universidad Privada Domingo Savio\Escritorio\Prograweb2\Practica 2\mvcProyectoWeb.AccesoDatos\bin\Debug\net8.0\mvcProyectoWeb.Utilidades.pdb
+C:\Users\diego.aguilera\OneDrive - Universidad Privada Domingo Savio\Escritorio\Prograweb2\Practica 2\mvcProyectoWeb.AccesoDatos\obj\Debug\net8.0\mvcProyectoWeb.AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\diego.aguilera\OneDrive - Universidad Privada Domingo Savio\Escritorio\Prograweb2\Practica 2\mvcProyectoWeb.AccesoDatos\obj\Debug\net8.0\mvcProyectoWeb.AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego.aguilera\OneDrive - Universidad Privada Domingo Savio\Escritorio\Prograweb2\Practica 2\mvcProyectoWeb.AccesoDatos\obj\Debug\net8.0\mvcProyectoWeb.AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\diego.aguilera\OneDrive - Universidad Privada Domingo Savio\Escritorio\Prograweb2\Practica 2\mvcProyectoWeb.AccesoDatos\obj\Debug\net8.0\mvcProyectoWeb.AccesoDatos.AssemblyInfo.cs
+C:\Users\diego.aguilera\OneDrive - Universidad Privada Domingo Savio\Escritorio\Prograweb2\Practica 2\mvcProyectoWeb.AccesoDatos\obj\Debug\net8.0\mvcProyectoWeb.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\diego.aguilera\OneDrive - Universidad Privada Domingo Savio\Escritorio\Prograweb2\Practica 2\mvcProyectoWeb.AccesoDatos\obj\Debug\net8.0\mvcProye.E177E565.Up2Date
+C:\Users\diego.aguilera\OneDrive - Universidad Privada Domingo Savio\Escritorio\Prograweb2\Practica 2\mvcProyectoWeb.AccesoDatos\obj\Debug\net8.0\mvcProyectoWeb.AccesoDatos.dll
+C:\Users\diego.aguilera\OneDrive - Universidad Privada Domingo Savio\Escritorio\Prograweb2\Practica 2\mvcProyectoWeb.AccesoDatos\obj\Debug\net8.0\refint\mvcProyectoWeb.AccesoDatos.dll
+C:\Users\diego.aguilera\OneDrive - Universidad Privada Domingo Savio\Escritorio\Prograweb2\Practica 2\mvcProyectoWeb.AccesoDatos\obj\Debug\net8.0\mvcProyectoWeb.AccesoDatos.pdb
+C:\Users\diego.aguilera\OneDrive - Universidad Privada Domingo Savio\Escritorio\Prograweb2\Practica 2\mvcProyectoWeb.AccesoDatos\obj\Debug\net8.0\mvcProyectoWeb.AccesoDatos.genruntimeconfig.cache
+C:\Users\diego.aguilera\OneDrive - Universidad Privada Domingo Savio\Escritorio\Prograweb2\Practica 2\mvcProyectoWeb.AccesoDatos\obj\Debug\net8.0\ref\mvcProyectoWeb.AccesoDatos.dll

@@ -1,0 +1,22 @@
+C:\Users\juand\source\repos\Practica 2\mvcProyectoWeb.Utilidades\bin\Debug\net8.0\mvcProyectoWeb.Utilidades.deps.json
+C:\Users\juand\source\repos\Practica 2\mvcProyectoWeb.Utilidades\bin\Debug\net8.0\mvcProyectoWeb.Utilidades.dll
+C:\Users\juand\source\repos\Practica 2\mvcProyectoWeb.Utilidades\bin\Debug\net8.0\mvcProyectoWeb.Utilidades.pdb
+C:\Users\juand\source\repos\Practica 2\mvcProyectoWeb.Utilidades\obj\Debug\net8.0\mvcProyectoWeb.Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juand\source\repos\Practica 2\mvcProyectoWeb.Utilidades\obj\Debug\net8.0\mvcProyectoWeb.Utilidades.AssemblyInfoInputs.cache
+C:\Users\juand\source\repos\Practica 2\mvcProyectoWeb.Utilidades\obj\Debug\net8.0\mvcProyectoWeb.Utilidades.AssemblyInfo.cs
+C:\Users\juand\source\repos\Practica 2\mvcProyectoWeb.Utilidades\obj\Debug\net8.0\mvcProyectoWeb.Utilidades.csproj.CoreCompileInputs.cache
+C:\Users\juand\source\repos\Practica 2\mvcProyectoWeb.Utilidades\obj\Debug\net8.0\mvcProyectoWeb.Utilidades.dll
+C:\Users\juand\source\repos\Practica 2\mvcProyectoWeb.Utilidades\obj\Debug\net8.0\refint\mvcProyectoWeb.Utilidades.dll
+C:\Users\juand\source\repos\Practica 2\mvcProyectoWeb.Utilidades\obj\Debug\net8.0\mvcProyectoWeb.Utilidades.pdb
+C:\Users\juand\source\repos\Practica 2\mvcProyectoWeb.Utilidades\obj\Debug\net8.0\ref\mvcProyectoWeb.Utilidades.dll
+C:\Users\diego.aguilera\OneDrive - Universidad Privada Domingo Savio\Escritorio\Prograweb2\Practica 2\mvcProyectoWeb.Utilidades\bin\Debug\net8.0\mvcProyectoWeb.Utilidades.deps.json
+C:\Users\diego.aguilera\OneDrive - Universidad Privada Domingo Savio\Escritorio\Prograweb2\Practica 2\mvcProyectoWeb.Utilidades\bin\Debug\net8.0\mvcProyectoWeb.Utilidades.dll
+C:\Users\diego.aguilera\OneDrive - Universidad Privada Domingo Savio\Escritorio\Prograweb2\Practica 2\mvcProyectoWeb.Utilidades\bin\Debug\net8.0\mvcProyectoWeb.Utilidades.pdb
+C:\Users\diego.aguilera\OneDrive - Universidad Privada Domingo Savio\Escritorio\Prograweb2\Practica 2\mvcProyectoWeb.Utilidades\obj\Debug\net8.0\mvcProyectoWeb.Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego.aguilera\OneDrive - Universidad Privada Domingo Savio\Escritorio\Prograweb2\Practica 2\mvcProyectoWeb.Utilidades\obj\Debug\net8.0\mvcProyectoWeb.Utilidades.AssemblyInfoInputs.cache
+C:\Users\diego.aguilera\OneDrive - Universidad Privada Domingo Savio\Escritorio\Prograweb2\Practica 2\mvcProyectoWeb.Utilidades\obj\Debug\net8.0\mvcProyectoWeb.Utilidades.AssemblyInfo.cs
+C:\Users\diego.aguilera\OneDrive - Universidad Privada Domingo Savio\Escritorio\Prograweb2\Practica 2\mvcProyectoWeb.Utilidades\obj\Debug\net8.0\mvcProyectoWeb.Utilidades.csproj.CoreCompileInputs.cache
+C:\Users\diego.aguilera\OneDrive - Universidad Privada Domingo Savio\Escritorio\Prograweb2\Practica 2\mvcProyectoWeb.Utilidades\obj\Debug\net8.0\mvcProyectoWeb.Utilidades.dll
+C:\Users\diego.aguilera\OneDrive - Universidad Privada Domingo Savio\Escritorio\Prograweb2\Practica 2\mvcProyectoWeb.Utilidades\obj\Debug\net8.0\refint\mvcProyectoWeb.Utilidades.dll
+C:\Users\diego.aguilera\OneDrive - Universidad Privada Domingo Savio\Escritorio\Prograweb2\Practica 2\mvcProyectoWeb.Utilidades\obj\Debug\net8.0\mvcProyectoWeb.Utilidades.pdb
+C:\Users\diego.aguilera\OneDrive - Universidad Privada Domingo Savio\Escritorio\Prograweb2\Practica 2\mvcProyectoWeb.Utilidades\obj\Debug\net8.0\ref\mvcProyectoWeb.Utilidades.dll
